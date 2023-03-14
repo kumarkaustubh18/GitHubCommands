@@ -1,4 +1,4 @@
-# for-clone
+#Baic GitHub commands that a developer should know
 Hi This is Kumar kaustubh
 1 - git config - This command sets the author name and email address to be used with your commits.
 2 - git init - This command is used to start a new repository.
