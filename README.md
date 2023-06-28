@@ -19,3 +19,4 @@ Hi This is Kumar kaustubh
 17 - git push - This command sends the committed changes of the master branch to your remote repository.
 18 - git pull - This command fetches and merges changes on the remote server to your working directory.
 19 - git stash - This command temporarily stores all the modified tracked files.
+20-git clean -f -x This command delete untracked files.
